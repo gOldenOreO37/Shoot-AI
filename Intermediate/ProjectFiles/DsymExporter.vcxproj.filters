@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Target.cs" />
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{2FBD7A66-9AD4-4A26-9083-A09D4D328B07}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\Mac\DsymExporter\Private\DsymExporterApp.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<Filter Include="Private\Mac">
+			<UniqueIdentifier>{7D9B3C51-5FC9-429C-B8A1-EC0EBD0D3D28}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\Mac\DsymExporter\Private\Mac\DsymExporterMainMac.cpp">
+			<Filter>Private\Mac</Filter>
+		</ClCompile >
+		<Filter Include="Public">
+			<UniqueIdentifier>{91B31846-765B-4829-A6C0-A41DB6B24CB8}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\Mac\DsymExporter\Public\DsymExporterApp.h">
+			<Filter>Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

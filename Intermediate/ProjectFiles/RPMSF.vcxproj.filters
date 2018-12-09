@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\RPMSF.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{6F4931EB-E274-4919-9615-A6CA25EE1BAE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\RPMSF.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\RPMSFEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\RPMSFServer.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{410DF1CB-415A-497C-A65E-BE7DE2A564F6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Plugins">
+			<UniqueIdentifier>{A17546DB-D3EF-414E-991C-8405198AB750}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\Victory Plugin">
+			<UniqueIdentifier>{1C80B988-7D68-481E-B4BD-3AD4706BCD8B}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\Victory Plugin\Source">
+			<UniqueIdentifier>{5729747C-A81C-4D38-ADE3-2A03951D1AE5}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\Victory Plugin\Source\VictoryBPLibrary">
+			<UniqueIdentifier>{32535D80-5EB9-4DED-BB76-A430C8F4B701}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary</Filter>
+		</None >
+		<Filter Include="Plugins\Victory Plugin\Source\VictoryBPLibrary\Private">
+			<UniqueIdentifier>{75A62ED3-6948-46A5-A846-AFFC64A7B680}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Private\TKMathFunctionLibrary.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary_WinOS.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Private\VictoryBPHTML.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Private\VictoryBPLibrary.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Private</Filter>
+		</ClInclude >
+		<Filter Include="Plugins\Victory Plugin\Source\VictoryBPLibrary\Public">
+			<UniqueIdentifier>{08A773EA-EB32-4564-BC1C-D978D65D11D9}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryBPHTML.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryBPLibrary.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryISM.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryISM.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryPC.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryPC.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryTMapComp.cpp">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Plugins\Victory Plugin\Source\VictoryBPLibrary\Public\VictoryTMapComp.h">
+			<Filter>Plugins\Victory Plugin\Source\VictoryBPLibrary\Public</Filter>
+		</ClInclude >
+		<None Include="..\..\Plugins\Victory Plugin\VictoryBPLibrary.uplugin">
+			<Filter>Plugins\Victory Plugin</Filter>
+		</None >
+		<Filter Include="Plugins\Victory Plugin\Resources">
+			<UniqueIdentifier>{9243C141-DD95-4A05-A7FD-973164DDC82C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\Victory Plugin\Resources\Icon128.png">
+			<Filter>Plugins\Victory Plugin\Resources</Filter>
+		</None >
+		<None Include="..\..\Plugins\Victory Plugin\Resources\Thumbs.db">
+			<Filter>Plugins\Victory Plugin\Resources</Filter>
+		</None >
+		<Filter Include="Source\RPMSF">
+			<UniqueIdentifier>{DD0BBF3E-5047-4A16-8E7C-2D5793DB2565}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\RPMSF\RPMSF.Build.cs">
+			<Filter>Source\RPMSF</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\RPMSF\RPMSF.cpp">
+			<Filter>Source\RPMSF</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RPMSF\RPMSF.h">
+			<Filter>Source\RPMSF</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\RPMSF\RPMSFGameModeBase.cpp">
+			<Filter>Source\RPMSF</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RPMSF\RPMSFGameModeBase.h">
+			<Filter>Source\RPMSF</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

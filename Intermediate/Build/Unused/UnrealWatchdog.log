@@ -1,0 +1,51 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealPak.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealVersionSelector.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealFileServer.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealWatchdog.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BootstrapPackagedGame.vcxproj]
+  Creating makefile for UnrealWatchdog (no existing makefile)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BlankProgram.vcxproj]
+  Performing full C++ include scan (no include cache file)
+  Distributing 23 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  SharedPCH.Core.cpp (0:05.14 at +0:00)
+  PCH.Core.cpp (0:02.84 at +0:05)
+  Module.ApplicationCore.cpp (0:04.53 at +0:08)
+  Module.Projects.cpp (0:02.42 at +0:12)
+  Module.AnalyticsET.cpp (0:02.15 at +0:14)
+  Module.Json.cpp (0:09.78 at +0:17)
+  Module.HTTP.cpp (0:02.17 at +0:26)
+  Module.SSL.cpp (0:00.78 at +0:29)
+  Module.Sockets.cpp (0:01.57 at +0:29)
+  Module.SandboxFile.cpp (0:00.54 at +0:31)
+  Module.Analytics.cpp (0:00.25 at +0:32)
+  Module.Core.9_of_9.cpp (0:02.90 at +0:32)
+  Module.Core.8_of_9.cpp (0:11.98 at +0:35)
+  Module.Core.7_of_9.cpp (0:11.31 at +0:47)
+  Module.Core.6_of_9.cpp (0:06.18 at +0:58)
+  Module.Core.5_of_9.cpp (0:06.79 at +1:04)
+  Module.Core.4_of_9.cpp (0:02.65 at +1:11)
+  Module.Core.3_of_9.cpp (0:13.67 at +1:14)
+  Module.Core.2_of_9.cpp (0:04.93 at +1:28)
+  Module.Core.1_of_9.cpp (0:08.03 at +1:33)
+  Module.UnrealWatchdog.cpp (0:01.96 at +1:41)
+  PCLaunch.rc (0:00.21 at +1:43)
+  UnrealWatchdog-Win64-Development.exe (0:09.53 at +1:43)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Binaries\Win64\UnrealWatchdog-Win64-Development.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Binaries\Win64\UnrealWatchdog-Win64-Development.exp
+  ---------------------- Done ----------------------
+   
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+   
+  1 build system warning(s):
+     - License is invalid
+   
+  
+  
+  Deploying UnrealWatchdog Win64 Development...
+  Total build time: 120.61 seconds (XGE executor: 113.20 seconds)

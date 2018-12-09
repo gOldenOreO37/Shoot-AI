@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\UnrealFrontend.Target.cs" />
+		<Filter Include="Config">
+			<UniqueIdentifier>{7492E193-0794-4BD5-BD63-C6B19052C0E4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Programs\UnrealFrontend\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\UnrealFrontend.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{7DC747C3-4329-4AE4-8A25-13987D5CDF0D}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\UnrealFrontendMain.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\UnrealFrontendMain.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<Filter Include="Private\Commands">
+			<UniqueIdentifier>{CF5A57F2-5411-4A9E-ABBE-4BD845D04C15}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\DeployCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\DeployCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\LaunchCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\LaunchCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\LaunchFromProfileCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\LaunchFromProfileCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\PackageCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\PackageCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\StatsConvertCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\StatsConvertCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\StatsDumpMemoryCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\StatsDumpMemoryCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\UserInterfaceCommand.cpp">
+			<Filter>Private\Commands</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Commands\UserInterfaceCommand.h">
+			<Filter>Private\Commands</Filter>
+		</ClInclude >
+		<Filter Include="Private\Linux">
+			<UniqueIdentifier>{AFE2630D-7469-45AC-A715-599C21D338FD}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Linux\LinuxUnrealFrontendMain.cpp">
+			<Filter>Private\Linux</Filter>
+		</ClCompile >
+		<Filter Include="Private\Mac">
+			<UniqueIdentifier>{E4CC9654-DBA7-43EE-90C4-A86371353911}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Mac\MacUnrealFrontendMain.cpp">
+			<Filter>Private\Mac</Filter>
+		</ClCompile >
+		<Filter Include="Private\Windows">
+			<UniqueIdentifier>{5B78BE87-82CD-4AAB-89D3-B6F54833AB42}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Private\Windows\WindowsUnrealFrontendMain.cpp">
+			<Filter>Private\Windows</Filter>
+		</ClCompile >
+		<Filter Include="Resources">
+			<UniqueIdentifier>{D5AAE27E-27BB-47DB-97E9-A530455B1D15}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Resources\Windows">
+			<UniqueIdentifier>{63FDCE6E-D9A3-4801-B88C-DDA89884346B}</UniqueIdentifier>
+		</Filter>
+		<Manifest Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Resources\Windows\Debug-UnrealFrontend-Win32.manifest">
+			<Filter>Resources\Windows</Filter>
+		</Manifest >
+		<Manifest Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Resources\Windows\Debug-UnrealFrontend-Win64.manifest">
+			<Filter>Resources\Windows</Filter>
+		</Manifest >
+		<Manifest Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Resources\Windows\UnrealFrontend-Win32.manifest">
+			<Filter>Resources\Windows</Filter>
+		</Manifest >
+		<Manifest Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Resources\Windows\UnrealFrontend-Win64.manifest">
+			<Filter>Resources\Windows</Filter>
+		</Manifest >
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Resources\Windows\UnrealFrontend.ico">
+			<Filter>Resources\Windows</Filter>
+		</None >
+		<ResourceCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealFrontend\Resources\Windows\UnrealFrontend.rc">
+			<Filter>Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Target.cs" />
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Build.cs" />
+		<Filter Include="Private">
+			<UniqueIdentifier>{32C21A89-2A62-4B85-8863-C217C08DB3E9}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\WatchdogAnalytics.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\WatchdogAnalytics.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<Filter Include="Private\Linux">
+			<UniqueIdentifier>{8BFFF400-1D80-4384-9019-A573E7832BF9}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\Linux\UnrealWatchdogMainLinux.cpp">
+			<Filter>Private\Linux</Filter>
+		</ClCompile >
+		<Filter Include="Private\Mac">
+			<UniqueIdentifier>{F8977CD9-F3B0-4AE6-B1D1-07BF03DB3618}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\Mac\UnrealWatchdogMainMac.cpp">
+			<Filter>Private\Mac</Filter>
+		</ClCompile >
+		<Filter Include="Private\Windows">
+			<UniqueIdentifier>{D64B3C8B-E1C4-45EA-AB19-BEF00F187AFE}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\UnrealWatchdog\Private\Windows\UnrealWatchdogMainWindows.cpp">
+			<Filter>Private\Windows</Filter>
+		</ClCompile >
+	</ItemGroup>
+</Project>

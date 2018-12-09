@@ -1,0 +1,550 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealCEFSubProcess.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealFrontend.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealHeaderTool.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealLightmass.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealPak.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealVersionSelector.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealFileServer.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealWatchdog.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BootstrapPackagedGame.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BlankProgram.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BuildPatchTool.vcxproj]
+  Creating makefile for UnrealFrontend (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Building UnrealHeaderTool...
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Target is up to date
+  Total build time: 5.42 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Parsing headers for UnrealFrontend
+    Running UnrealHeaderTool UnrealFrontend "C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -NoEnginePlugins
+  Reflection code generated for UnrealFrontend in 2.8307836 seconds
+  Distributing 328 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  SharedPCH.Core.cpp (0:04.40 at +0:00)
+  SharedPCH.CoreUObject.cpp (0:05.65 at +0:04)
+  PCH.Core.cpp (0:05.59 at +0:10)
+  PCH.CoreUObject.cpp (0:08.68 at +0:15)
+  SharedPCH.Slate.cpp (0:13.89 at +0:24)
+  SharedPCH.Slate.NonOptimized.cpp (0:13.71 at +0:38)
+  PCH.ImageWrapper.cpp (0:00.78 at +0:52)
+  ModuleVersionResource.rc.inl (0:00.23 at +0:52)
+  PCLaunch.rc (0:00.07 at +0:53)
+  Module.Core.1_of_9.cpp (0:09.73 at +0:53)
+  Module.Core.4_of_9.cpp (0:03.79 at +1:03)
+  Module.Core.5_of_9.cpp (0:10.00 at +1:06)
+  Module.Core.6_of_9.cpp (0:07.28 at +1:16)
+  Module.Core.7_of_9.cpp (0:14.42 at +1:24)
+  Module.Core.8_of_9.cpp (0:08.76 at +1:38)
+  Module.Core.9_of_9.cpp (0:02.78 at +1:47)
+  Module.Core.3_of_9.cpp (0:09.93 at +1:50)
+  Module.Core.2_of_9.cpp (0:04.81 at +2:00)
+  UnrealFrontend-Core.lib (0:01.14 at +2:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Core.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Core.exp
+  Module.CoreUObject.1_of_6.cpp (0:09.53 at +2:06)
+  Module.CoreUObject.2_of_6.cpp (0:12.11 at +2:15)
+  Module.CoreUObject.3_of_6.cpp (0:09.81 at +2:28)
+  Module.CoreUObject.5_of_6.cpp (0:14.29 at +2:37)
+  Module.CoreUObject.6_of_6.cpp (0:05.78 at +2:52)
+  Module.CoreUObject.gen.cpp (0:00.48 at +2:58)
+  Module.CoreUObject.4_of_6.cpp (0:06.32 at +2:58)
+  UnrealFrontend-CoreUObject.lib (0:00.39 at +3:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-CoreUObject.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-CoreUObject.exp
+  Module.DesktopPlatform.cpp (0:04.04 at +3:05)
+  UnrealFrontend-DesktopPlatform.lib (0:00.14 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopPlatform.exp
+  Module.TargetPlatform.cpp (0:00.96 at +3:09)
+  UnrealFrontend-TargetPlatform.lib (0:00.14 at +3:10)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetPlatform.exp
+  Module.Json.cpp (0:05.65 at +3:10)
+  Module.SlateCore.gen.cpp (0:03.32 at +3:16)
+  Module.ApplicationCore.cpp (0:02.95 at +3:19)
+  Module.SlateCore.cpp (0:19.25 at +3:22)
+  UnrealFrontend-Json.lib (0:00.10 at +3:42)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Json.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Json.exp
+  Module.Slate.2_of_5.cpp (0:15.54 at +3:42)
+  Module.Slate.1_of_5.cpp (0:10.61 at +3:57)
+  Module.Slate.4_of_5.cpp (0:09.81 at +4:08)
+  Module.Slate.5_of_5.cpp (0:05.00 at +4:18)
+  Module.Slate.gen.cpp (0:02.17 at +4:23)
+  Module.Slate.3_of_5.cpp (0:13.67 at +4:25)
+  UnrealFrontend-SlateCore.lib (0:00.20 at +4:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateCore.exp
+  UnrealFrontend-ApplicationCore.lib (0:00.09 at +4:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ApplicationCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ApplicationCore.exp
+  Module.InputCore.cpp (0:02.46 at +4:39)
+  Module.InputCore.gen.cpp (0:00.75 at +4:42)
+  UnrealFrontend-Slate.lib (0:00.25 at +4:42)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Slate.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Slate.exp
+  UnrealFrontend-InputCore.lib (0:00.10 at +4:43)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-InputCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-InputCore.exp
+  Module.EditorStyle.cpp (0:03.57 at +4:43)
+  Module.EditorStyle.gen.cpp (0:00.32 at +4:46)
+  UnrealFrontend-EditorStyle.lib (0:00.11 at +4:47)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EditorStyle.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EditorStyle.exp
+  Module.ImageWrapper.cpp (0:02.39 at +4:47)
+  Module.AndroidDeviceDetection.cpp (0:00.51 at +4:49)
+  UnrealFrontend-ImageWrapper.lib (0:00.09 at +4:50)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageWrapper.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageWrapper.exp
+  UnrealFrontend-AndroidDeviceDetection.lib (0:00.14 at +4:50)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidDeviceDetection.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidDeviceDetection.exp
+  Module.Projects.cpp (0:02.40 at +4:50)
+  Module.ImageCore.cpp (0:00.29 at +4:53)
+  Module.Sockets.cpp (0:01.42 at +4:53)
+  Module.ShaderCore.cpp (0:08.93 at +4:54)
+  UnrealFrontend-Projects.lib (0:00.09 at +5:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Projects.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Projects.exp
+  UnrealFrontend-ImageCore.lib (0:00.09 at +5:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageCore.exp
+  UnrealFrontend-ShaderCore.lib (0:00.11 at +5:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCore.exp
+  UnrealFrontend-Sockets.lib (0:00.09 at +5:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Sockets.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Sockets.exp
+  Module.ShaderCompilerCommon.cpp (0:02.64 at +5:04)
+  Module.JsonUtilities.cpp (0:01.78 at +5:06)
+  Module.JsonUtilities.gen.cpp (0:00.75 at +5:08)
+  Module.ShaderPreprocessor.cpp (0:00.87 at +5:09)
+  Module.Networking.cpp (0:00.59 at +5:10)
+  Module.SourceCodeAccess.cpp (0:00.56 at +5:11)
+  Module.ScreenShotComparisonTools.cpp (0:02.04 at +5:11)
+  Module.ScreenShotComparisonTools.gen.cpp (0:00.35 at +5:13)
+  Module.UnrealEdMessages.gen.cpp (0:00.70 at +5:14)
+  Module.UnrealEdMessages.cpp (0:00.12 at +5:14)
+  Module.SourceCodeAccess.gen.cpp (0:00.31 at +5:15)
+  Module.RHI.cpp (0:04.00 at +5:15)
+  Module.AutomationMessages.gen.cpp (0:01.18 at +5:19)
+  Module.AutomationMessages.cpp (0:00.14 at +5:20)
+  Module.WorkspaceMenuStructure.cpp (0:01.32 at +5:20)
+  Module.LaunchDaemonMessages.cpp (0:00.18 at +5:22)
+  Module.LaunchDaemonMessages.gen.cpp (0:00.65 at +5:22)
+  UnrealFrontend-JsonUtilities.lib (0:00.09 at +5:22)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-JsonUtilities.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-JsonUtilities.exp
+  UnrealFrontend-ShaderPreprocessor.lib (0:00.09 at +5:23)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderPreprocessor.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderPreprocessor.exp
+  UnrealFrontend-ShaderCompilerCommon.lib (0:00.11 at +5:23)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCompilerCommon.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCompilerCommon.exp
+  Module.AutomationController.gen.cpp (0:01.34 at +5:23)
+  Module.SessionMessages.cpp (0:00.14 at +5:24)
+  Module.AutomationController.cpp (0:02.68 at +5:24)
+  Module.SessionMessages.gen.cpp (0:00.68 at +5:27)
+  Module.MessageLog.cpp (0:05.62 at +5:28)
+  Module.RenderCore.cpp (0:02.31 at +5:33)
+  Module.Serialization.cpp (0:01.65 at +5:36)
+  Module.Serialization.gen.cpp (0:00.89 at +5:37)
+  Module.SessionServices.cpp (0:01.50 at +5:38)
+  Module.AssetRegistry.cpp (0:06.00 at +5:40)
+  Module.Profiler.cpp (0:22.12 at +5:46)
+  Module.AssetRegistry.gen.cpp (0:01.68 at +6:08)
+  Module.ProfilerClient.cpp (0:02.50 at +6:10)
+  UnrealFrontend-SourceCodeAccess.lib (0:00.12 at +6:12)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceCodeAccess.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceCodeAccess.exp
+  UnrealFrontend-ScreenShotComparisonTools.lib (0:00.14 at +6:12)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparisonTools.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparisonTools.exp
+  UnrealFrontend-LaunchDaemonMessages.lib (0:00.09 at +6:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LaunchDaemonMessages.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LaunchDaemonMessages.exp
+  UnrealFrontend-AutomationMessages.lib (0:00.10 at +6:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationMessages.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationMessages.exp
+  UnrealFrontend-UnrealEdMessages.lib (0:00.11 at +6:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UnrealEdMessages.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UnrealEdMessages.exp
+  UnrealFrontend-Networking.lib (0:00.09 at +6:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Networking.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Networking.exp
+  UnrealFrontend-WorkspaceMenuStructure.lib (0:00.10 at +6:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WorkspaceMenuStructure.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WorkspaceMenuStructure.exp
+  UnrealFrontend-RHI.lib (0:00.15 at +6:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RHI.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RHI.exp
+  Module.SourceControl.gen.cpp (0:00.39 at +6:13)
+  Module.DirectoryWatcher.cpp (0:01.79 at +6:14)
+  Module.ProfilerMessages.cpp (0:00.15 at +6:16)
+  Module.ScreenShotComparison.cpp (0:04.11 at +6:16)
+  Module.TcpMessaging.gen.cpp (0:00.62 at +6:20)
+  Module.VisualStudioSourceCodeAccess.cpp (0:01.64 at +6:20)
+  Module.UdpMessaging.gen.cpp (0:00.70 at +6:22)
+  Module.SessionFrontend.cpp (0:10.78 at +6:23)
+  Module.StandaloneRenderer.cpp (0:03.51 at +6:34)
+  Module.TextureFormatIntelISPCTexComp.cpp (0:00.50 at +6:37)
+  Module.IOSTargetPlatform.cpp (0:01.39 at +6:38)
+  Module.UdpMessaging.cpp (0:02.57 at +6:39)
+  Module.TargetDeviceServices.cpp (0:01.81 at +6:42)
+  Module.TargetDeviceServices.gen.cpp (0:00.87 at +6:44)
+  Module.Messaging.cpp (0:02.07 at +6:45)
+  Module.TcpMessaging.cpp (0:01.34 at +6:47)
+  Module.SourceControl.cpp (0:02.23 at +6:48)
+  Module.ProfilerMessages.gen.cpp (0:00.93 at +6:50)
+  Module.AutomationWindow.gen.cpp (0:00.37 at +6:51)
+  Module.Settings.cpp (0:00.73 at +6:52)
+  Module.LauncherServices.cpp (0:04.45 at +6:52)
+  Module.SSL.cpp (0:00.70 at +6:57)
+  Module.HTTP.cpp (0:01.84 at +6:57)
+  Module.EngineMessages.gen.cpp (0:00.71 at +6:59)
+  Module.DesktopWidgets.cpp (0:00.75 at +7:00)
+  Module.DeviceManager.cpp (0:08.82 at +7:01)
+  Module.AutomationWindow.cpp (0:09.73 at +7:10)
+  Module.SandboxFile.cpp (0:00.59 at +7:19)
+  Module.EngineMessages.cpp (0:00.14 at +7:20)
+  Module.LauncherPlatform.cpp (0:00.39 at +7:20)
+  Module.ProjectLauncher.cpp (0:17.73 at +7:21)
+  UnrealFrontend-Serialization.lib (0:00.09 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Serialization.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Serialization.exp
+  UnrealFrontend-SessionMessages.lib (0:00.09 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionMessages.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionMessages.exp
+  UnrealFrontend-AutomationController.lib (0:00.11 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationController.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationController.exp
+  UnrealFrontend-AssetRegistry.lib (0:00.10 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AssetRegistry.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AssetRegistry.exp
+  UnrealFrontend-ProfilerClient.lib (0:00.14 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerClient.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerClient.exp
+  UnrealFrontend-Profiler.lib (0:00.12 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Profiler.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Profiler.exp
+  UnrealFrontend-SessionServices.lib (0:00.09 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionServices.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionServices.exp
+  UnrealFrontend-RenderCore.lib (0:00.10 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RenderCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RenderCore.exp
+  UnrealFrontend-MessageLog.lib (0:00.09 at +7:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MessageLog.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MessageLog.exp
+  Module.Android_PVRTCTargetPlatform.cpp (0:00.71 at +7:40)
+  Module.SlateReflector.cpp (0:12.64 at +7:40)
+  Module.Android_ATCTargetPlatform.cpp (0:00.89 at +7:53)
+  Module.Android_DXTTargetPlatform.cpp (0:00.65 at +7:54)
+  Module.Android_ETC1TargetPlatform.cpp (0:00.75 at +7:55)
+  Module.Android_ETC1aTargetPlatform.cpp (0:00.70 at +7:56)
+  Module.Android_ETC2TargetPlatform.cpp (0:00.67 at +7:56)
+  Module.SlateReflector.gen.cpp (0:00.42 at +7:57)
+  Module.AndroidTargetPlatform.cpp (0:00.81 at +7:57)
+  Module.Android_ASTCTargetPlatform.cpp (0:00.73 at +7:58)
+  Module.MacTargetPlatform.gen.cpp (0:00.90 at +7:59)
+  Module.TVOSTargetPlatform.cpp (0:00.65 at +8:00)
+  Module.HTML5TargetPlatform.cpp (0:00.60 at +8:01)
+  Module.MacTargetPlatform.cpp (0:00.67 at +8:01)
+  Module.MacNoEditorTargetPlatform.cpp (0:00.28 at +8:02)
+  Module.MacServerTargetPlatform.cpp (0:00.25 at +8:02)
+  Module.MacClientTargetPlatform.cpp (0:00.23 at +8:03)
+  Module.WindowsTargetPlatform.cpp (0:01.04 at +8:03)
+  Module.WindowsTargetPlatform.gen.cpp (0:00.70 at +8:04)
+  Module.WindowsNoEditorTargetPlatform.cpp (0:00.50 at +8:05)
+  Module.WindowsServerTargetPlatform.cpp (0:00.48 at +8:05)
+  Module.WindowsClientTargetPlatform.cpp (0:00.51 at +8:06)
+  Module.VulkanShaderFormat.cpp (0:04.50 at +8:06)
+  Module.TextureFormatAndroid.cpp (0:00.28 at +8:11)
+  Module.Android_MultiTargetPlatform.cpp (0:00.70 at +8:11)
+  Module.AllDesktopTargetPlatform.cpp (0:00.26 at +8:12)
+  Module.TextureFormatUncompressed.cpp (0:00.29 at +8:12)
+  Module.TextureFormatPVR.cpp (0:00.28 at +8:13)
+  Module.MetalShaderFormat.cpp (0:06.92 at +8:13)
+  Module.DerivedDataCache.cpp (0:01.78 at +8:20)
+  Module.ShaderFormatD3D.cpp (0:02.04 at +8:22)
+  Module.ShaderFormatOpenGL.cpp (0:03.34 at +8:24)
+  Module.TextureFormatASTC.cpp (0:00.28 at +8:27)
+  Module.TextureFormatDXT.cpp (0:00.40 at +8:27)
+  Module.UnrealFrontend.cpp (0:07.21 at +8:28)
+  UnrealFrontend.rc (0:00.20 at +8:35)
+  UnrealFrontend-ProfilerMessages.lib (0:00.18 at +8:35)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerMessages.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerMessages.exp
+  UnrealFrontend-SourceControl.lib (0:00.29 at +8:35)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceControl.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceControl.exp
+  UnrealFrontend-TargetDeviceServices.lib (0:00.25 at +8:36)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetDeviceServices.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetDeviceServices.exp
+  UnrealFrontend-EngineMessages.lib (0:00.15 at +8:36)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EngineMessages.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EngineMessages.exp
+  UnrealFrontend-AutomationWindow.lib (0:00.29 at +8:36)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationWindow.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationWindow.exp
+  UnrealFrontend-TcpMessaging.lib (0:00.25 at +8:36)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TcpMessaging.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TcpMessaging.exp
+  UnrealFrontend-UdpMessaging.lib (0:00.21 at +8:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UdpMessaging.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UdpMessaging.exp
+  UnrealFrontend-DirectoryWatcher.lib (0:00.15 at +8:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DirectoryWatcher.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DirectoryWatcher.exp
+  UnrealFrontend-ProjectLauncher.lib (0:00.12 at +8:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProjectLauncher.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProjectLauncher.exp
+  UnrealFrontend-DesktopWidgets.lib (0:00.20 at +8:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopWidgets.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopWidgets.exp
+  UnrealFrontend-ScreenShotComparison.lib (0:00.39 at +8:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparison.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparison.exp
+  UnrealFrontend-TextureFormatIntelISPCTexComp.lib (0:00.15 at +8:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatIntelISPCTexComp.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatIntelISPCTexComp.exp
+  UnrealFrontend-HTTP.lib (0:00.21 at +8:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-HTTP.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-HTTP.exp
+  UnrealFrontend-IOSTargetPlatform.lib (0:00.17 at +8:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-IOSTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-IOSTargetPlatform.exp
+  UnrealFrontend-Messaging.lib (0:00.15 at +8:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Messaging.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Messaging.exp
+  UnrealFrontend-LauncherServices.lib (0:00.20 at +8:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherServices.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherServices.exp
+  UnrealFrontend-SandboxFile.lib (0:00.17 at +8:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SandboxFile.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SandboxFile.exp
+  UnrealFrontend-LauncherPlatform.lib (0:00.14 at +8:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherPlatform.exp
+  UnrealFrontend-StandaloneRenderer.lib (0:00.18 at +8:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-StandaloneRenderer.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-StandaloneRenderer.exp
+  UnrealFrontend-Settings.lib (0:00.14 at +8:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Settings.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Settings.exp
+  UnrealFrontend-SSL.lib (0:00.15 at +8:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SSL.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SSL.exp
+  UnrealFrontend-DeviceManager.lib (0:00.26 at +8:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DeviceManager.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DeviceManager.exp
+  UnrealFrontend-SessionFrontend.lib (0:00.31 at +8:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionFrontend.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionFrontend.exp
+  UnrealFrontend-VisualStudioSourceCodeAccess.lib (0:00.25 at +8:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VisualStudioSourceCodeAccess.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VisualStudioSourceCodeAccess.exp
+  UnrealFrontend.exe (0:00.81 at +8:41)
+  UnrealFrontend-Core.dll (0:10.78 at +8:41)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Core.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Core.suppressed.exp
+  UnrealFrontend-StandaloneRenderer.dll (0:01.75 at +8:52)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-StandaloneRenderer.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-StandaloneRenderer.suppressed.exp
+  UnrealFrontend-SessionFrontend.dll (0:02.34 at +8:54)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionFrontend.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionFrontend.suppressed.exp
+  UnrealFrontend-SlateCore.dll (0:01.95 at +8:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateCore.suppressed.exp
+  UnrealFrontend-ShaderFormatD3D.dll (0:00.76 at +8:58)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatD3D.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatD3D.suppressed.exp
+  UnrealFrontend-ScreenShotComparison.dll (0:00.71 at +8:59)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparison.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparison.suppressed.exp
+  UnrealFrontend-Slate.dll (0:07.50 at +9:00)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Slate.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Slate.suppressed.exp
+  UnrealFrontend-AutomationWindow.dll (0:01.01 at +9:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationWindow.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationWindow.suppressed.exp
+  UnrealFrontend-SlateReflector.dll (0:00.43 at +9:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateReflector.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateReflector.suppressed.exp
+  UnrealFrontend-AutomationController.dll (0:00.93 at +9:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationController.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationController.suppressed.exp
+  UnrealFrontend-ScreenShotComparisonTools.dll (0:00.46 at +9:10)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparisonTools.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ScreenShotComparisonTools.suppressed.exp
+  UnrealFrontend-Profiler.dll (0:01.95 at +9:11)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Profiler.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Profiler.suppressed.exp
+  UnrealFrontend-CoreUObject.dll (0:07.32 at +9:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-CoreUObject.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-CoreUObject.suppressed.exp
+  UnrealFrontend-ProjectLauncher.dll (0:01.12 at +9:20)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProjectLauncher.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProjectLauncher.suppressed.exp
+  UnrealFrontend-VulkanShaderFormat.dll (0:02.61 at +9:21)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VulkanShaderFormat.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VulkanShaderFormat.suppressed.exp
+  UnrealFrontend-LauncherServices.dll (0:00.75 at +9:24)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherServices.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherServices.suppressed.exp
+  UnrealFrontend-SourceControl.dll (0:00.70 at +9:25)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceControl.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceControl.suppressed.exp
+  UnrealFrontend-ImageWrapper.dll (0:01.87 at +9:25)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageWrapper.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageWrapper.suppressed.exp
+  UnrealFrontend-DeviceManager.dll (0:01.37 at +9:27)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DeviceManager.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DeviceManager.suppressed.exp
+  UnrealFrontend-MessageLog.dll (0:01.26 at +9:29)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MessageLog.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MessageLog.suppressed.exp
+  UnrealFrontend-UdpMessaging.dll (0:00.62 at +9:30)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UdpMessaging.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\UdpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UdpMessaging.suppressed.exp
+  UnrealFrontend-TVOSTargetPlatform.dll (0:00.25 at +9:31)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-TVOSTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-TVOSTargetPlatform.suppressed.exp
+  UnrealFrontend-TcpMessaging.dll (0:00.37 at +9:31)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TcpMessaging.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Messaging\TcpMessaging\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TcpMessaging.suppressed.exp
+  UnrealFrontend-IOSTargetPlatform.dll (0:00.85 at +9:32)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-IOSTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-IOSTargetPlatform.suppressed.exp
+  UnrealFrontend-HTTP.dll (0:01.75 at +9:33)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-HTTP.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-HTTP.suppressed.exp
+  UnrealFrontend-ShaderFormatOpenGL.dll (0:00.54 at +9:34)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatOpenGL.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatOpenGL.suppressed.exp
+  UnrealFrontend-EditorStyle.dll (0:01.84 at +9:35)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EditorStyle.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EditorStyle.suppressed.exp
+  UnrealFrontend-AllDesktopTargetPlatform.dll (0:00.21 at +9:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AllDesktopTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AllDesktopTargetPlatform.suppressed.exp
+  UnrealFrontend-HTML5TargetPlatform.dll (0:00.25 at +9:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\HTML5\UnrealFrontend-HTML5TargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\HTML5\UnrealFrontend-HTML5TargetPlatform.suppressed.exp
+  UnrealFrontend-AndroidTargetPlatform.dll (0:00.28 at +9:37)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidTargetPlatform.suppressed.exp
+  UnrealFrontend-MacTargetPlatform.dll (0:00.21 at +9:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacTargetPlatform.suppressed.exp
+  UnrealFrontend-SourceCodeAccess.dll (0:00.29 at +9:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceCodeAccess.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SourceCodeAccess.suppressed.exp
+  UnrealFrontend-AssetRegistry.dll (0:00.96 at +9:38)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AssetRegistry.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AssetRegistry.suppressed.exp
+  UnrealFrontend-DesktopWidgets.dll (0:00.31 at +9:39)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopWidgets.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopWidgets.suppressed.exp
+  UnrealFrontend-MetalShaderFormat.dll (0:00.35 at +9:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MetalShaderFormat.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MetalShaderFormat.suppressed.exp
+  UnrealFrontend-WindowsTargetPlatform.dll (0:00.21 at +9:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsTargetPlatform.suppressed.exp
+  UnrealFrontend-TargetDeviceServices.dll (0:00.48 at +9:40)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetDeviceServices.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetDeviceServices.suppressed.exp
+  UnrealFrontend-TextureFormatDXT.dll (0:00.92 at +9:41)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatDXT.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatDXT.suppressed.exp
+  UnrealFrontend-Android_DXTTargetPlatform.dll (0:00.21 at +9:42)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_DXTTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_DXTTargetPlatform.suppressed.exp
+  UnrealFrontend-Serialization.dll (0:01.28 at +9:42)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Serialization.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Serialization.suppressed.exp
+  UnrealFrontend-VisualStudioSourceCodeAccess.dll (0:00.51 at +9:43)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VisualStudioSourceCodeAccess.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VisualStudioSourceCodeAccess.suppressed.exp
+  UnrealFrontend-Android_PVRTCTargetPlatform.dll (0:00.29 at +9:44)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_PVRTCTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_PVRTCTargetPlatform.suppressed.exp
+  UnrealFrontend-Android_ETC2TargetPlatform.dll (0:00.20 at +9:44)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC2TargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC2TargetPlatform.suppressed.exp
+  UnrealFrontend-TextureFormatAndroid.dll (0:00.29 at +9:44)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatAndroid.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatAndroid.suppressed.exp
+  UnrealFrontend-SessionServices.dll (0:00.61 at +9:45)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionServices.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionServices.suppressed.exp
+  UnrealFrontend-Android_MultiTargetPlatform.dll (0:00.26 at +9:45)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_MultiTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_MultiTargetPlatform.suppressed.exp
+  UnrealFrontend-TextureFormatIntelISPCTexComp.dll (0:00.46 at +9:46)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatIntelISPCTexComp.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatIntelISPCTexComp.suppressed.exp
+  UnrealFrontend-Android_ATCTargetPlatform.dll (0:00.34 at +9:46)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ATCTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ATCTargetPlatform.suppressed.exp
+  UnrealFrontend-JsonUtilities.dll (0:00.57 at +9:47)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-JsonUtilities.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-JsonUtilities.suppressed.exp
+  UnrealFrontend-Android_ETC1aTargetPlatform.dll (0:00.21 at +9:47)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1aTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1aTargetPlatform.suppressed.exp
+  UnrealFrontend-Android_ASTCTargetPlatform.dll (0:00.50 at +9:47)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ASTCTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ASTCTargetPlatform.suppressed.exp
+  UnrealFrontend-Android_ETC1TargetPlatform.dll (0:00.45 at +9:48)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1TargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1TargetPlatform.suppressed.exp
+  UnrealFrontend-TextureFormatASTC.dll (0:00.20 at +9:49)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatASTC.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatASTC.suppressed.exp
+  UnrealFrontend-DesktopPlatform.dll (0:00.45 at +9:49)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DesktopPlatform.suppressed.exp
+  UnrealFrontend-ProfilerClient.dll (0:00.71 at +9:49)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerClient.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerClient.suppressed.exp
+  UnrealFrontend-SessionMessages.dll (0:00.23 at +9:50)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionMessages.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SessionMessages.suppressed.exp
+  UnrealFrontend-TextureFormatPVR.dll (0:00.21 at +9:50)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatPVR.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatPVR.suppressed.exp
+  UnrealFrontend-SSL.dll (0:00.98 at +9:51)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SSL.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SSL.suppressed.exp
+  UnrealFrontend-InputCore.dll (0:00.68 at +9:52)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-InputCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-InputCore.suppressed.exp
+  UnrealFrontend-TargetPlatform.dll (0:00.40 at +9:53)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TargetPlatform.suppressed.exp
+  UnrealFrontend-MacClientTargetPlatform.dll (0:00.21 at +9:53)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacClientTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacClientTargetPlatform.suppressed.exp
+  UnrealFrontend-EngineMessages.dll (0:00.64 at +9:53)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EngineMessages.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-EngineMessages.suppressed.exp
+  UnrealFrontend-WindowsNoEditorTargetPlatform.dll (0:00.21 at +9:54)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsNoEditorTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsNoEditorTargetPlatform.suppressed.exp
+  UnrealFrontend-WindowsServerTargetPlatform.dll (0:00.26 at +9:54)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsServerTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsServerTargetPlatform.suppressed.exp
+  UnrealFrontend-ShaderPreprocessor.dll (0:01.20 at +9:54)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderPreprocessor.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderPreprocessor.suppressed.exp
+  UnrealFrontend-WorkspaceMenuStructure.dll (0:00.68 at +9:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WorkspaceMenuStructure.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WorkspaceMenuStructure.suppressed.exp
+  UnrealFrontend-AutomationMessages.dll (0:00.26 at +9:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationMessages.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AutomationMessages.suppressed.exp
+  UnrealFrontend-ShaderCore.dll (0:01.93 at +9:57)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCore.suppressed.exp
+  UnrealFrontend-LaunchDaemonMessages.dll (0:00.45 at +9:59)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LaunchDaemonMessages.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LaunchDaemonMessages.suppressed.exp
+  UnrealFrontend-RenderCore.dll (0:00.76 at +9:59)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RenderCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RenderCore.suppressed.exp
+  UnrealFrontend-UnrealEdMessages.dll (0:00.48 at +10:00)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UnrealEdMessages.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-UnrealEdMessages.suppressed.exp
+  UnrealFrontend-ProfilerMessages.dll (0:00.23 at +10:01)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerMessages.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ProfilerMessages.suppressed.exp
+  UnrealFrontend-MacNoEditorTargetPlatform.dll (0:00.20 at +10:01)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacNoEditorTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacNoEditorTargetPlatform.suppressed.exp
+  UnrealFrontend-WindowsClientTargetPlatform.dll (0:00.32 at +10:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsClientTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsClientTargetPlatform.suppressed.exp
+  UnrealFrontend-MacServerTargetPlatform.dll (0:00.21 at +10:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacServerTargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacServerTargetPlatform.suppressed.exp
+  UnrealFrontend-ApplicationCore.dll (0:00.86 at +10:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ApplicationCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ApplicationCore.suppressed.exp
+  UnrealFrontend-Projects.dll (0:00.42 at +10:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Projects.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Projects.suppressed.exp
+  UnrealFrontend-TextureFormatUncompressed.dll (0:00.18 at +10:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatUncompressed.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatUncompressed.suppressed.exp
+  UnrealFrontend-Sockets.dll (0:00.50 at +10:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Sockets.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Sockets.suppressed.exp
+  UnrealFrontend-Settings.dll (0:00.36 at +10:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Settings.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Settings.suppressed.exp
+  UnrealFrontend-RHI.dll (0:00.79 at +10:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RHI.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-RHI.suppressed.exp
+  UnrealFrontend-Networking.dll (0:00.59 at +10:06)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Networking.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Networking.suppressed.exp
+  UnrealFrontend-Messaging.dll (0:00.37 at +10:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Messaging.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Messaging.suppressed.exp
+  UnrealFrontend-ShaderCompilerCommon.dll (0:02.31 at +10:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCompilerCommon.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderCompilerCommon.suppressed.exp
+  UnrealFrontend-SandboxFile.dll (0:00.42 at +10:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SandboxFile.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SandboxFile.suppressed.exp
+  UnrealFrontend-DerivedDataCache.dll (0:00.21 at +10:10)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DerivedDataCache.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DerivedDataCache.suppressed.exp
+  UnrealFrontend-Json.dll (0:00.40 at +10:10)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Json.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-Json.suppressed.exp
+  UnrealFrontend-ImageCore.dll (0:00.21 at +10:10)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ImageCore.suppressed.exp
+  UnrealFrontend-DirectoryWatcher.dll (0:00.89 at +10:11)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DirectoryWatcher.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DirectoryWatcher.suppressed.exp
+  UnrealFrontend-AndroidDeviceDetection.dll (0:00.29 at +10:12)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidDeviceDetection.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidDeviceDetection.suppressed.exp
+  UnrealFrontend-LauncherPlatform.dll (0:00.25 at +10:12)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-LauncherPlatform.suppressed.exp
+  UnrealFrontend-WindowsTargetPlatform.lib (0:00.11 at +10:12)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsTargetPlatform.exp
+  UnrealFrontend-SlateReflector.lib (0:00.09 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateReflector.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-SlateReflector.exp
+  UnrealFrontend-MacTargetPlatform.lib (0:00.15 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacTargetPlatform.exp
+  UnrealFrontend-AndroidTargetPlatform.lib (0:00.09 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-AndroidTargetPlatform.exp
+  UnrealFrontend-Android_ETC2TargetPlatform.lib (0:00.15 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC2TargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC2TargetPlatform.exp
+  UnrealFrontend-Android_ATCTargetPlatform.lib (0:00.09 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ATCTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ATCTargetPlatform.exp
+  UnrealFrontend-TextureFormatPVR.lib (0:00.12 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatPVR.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatPVR.exp
+  UnrealFrontend-Android_DXTTargetPlatform.lib (0:00.09 at +10:13)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_DXTTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_DXTTargetPlatform.exp
+  UnrealFrontend-Android_ETC1TargetPlatform.lib (0:00.14 at +10:14)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1TargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1TargetPlatform.exp
+  UnrealFrontend-Android_ETC1aTargetPlatform.lib (0:00.14 at +10:14)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1aTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ETC1aTargetPlatform.exp
+  UnrealFrontend-TextureFormatUncompressed.lib (0:00.10 at +10:14)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatUncompressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatUncompressed.exp
+  UnrealFrontend-TextureFormatDXT.lib (0:00.09 at +10:14)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatDXT.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatDXT.exp
+  UnrealFrontend-TextureFormatASTC.lib (0:00.09 at +10:14)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatASTC.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatASTC.exp
+  UnrealFrontend-Android_PVRTCTargetPlatform.lib (0:00.09 at +10:15)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_PVRTCTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_PVRTCTargetPlatform.exp
+  UnrealFrontend-DerivedDataCache.lib (0:00.14 at +10:15)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DerivedDataCache.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-DerivedDataCache.exp
+  UnrealFrontend-Android_MultiTargetPlatform.lib (0:00.09 at +10:15)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_MultiTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_MultiTargetPlatform.exp
+  UnrealFrontend-TextureFormatAndroid.lib (0:00.14 at +10:15)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatAndroid.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-TextureFormatAndroid.exp
+  UnrealFrontend-AllDesktopTargetPlatform.lib (0:00.07 at +10:15)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AllDesktopTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-AllDesktopTargetPlatform.exp
+  UnrealFrontend-WindowsClientTargetPlatform.lib (0:00.10 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsClientTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsClientTargetPlatform.exp
+  UnrealFrontend-WindowsServerTargetPlatform.lib (0:00.07 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsServerTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsServerTargetPlatform.exp
+  UnrealFrontend-WindowsNoEditorTargetPlatform.lib (0:00.09 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsNoEditorTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-WindowsNoEditorTargetPlatform.exp
+  UnrealFrontend-Android_ASTCTargetPlatform.lib (0:00.07 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ASTCTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Android\UnrealFrontend-Android_ASTCTargetPlatform.exp
+  UnrealFrontend-ShaderFormatOpenGL.lib (0:00.09 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatOpenGL.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatOpenGL.exp
+  UnrealFrontend-MacServerTargetPlatform.lib (0:00.09 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacServerTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacServerTargetPlatform.exp
+  UnrealFrontend-MacNoEditorTargetPlatform.lib (0:00.18 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacNoEditorTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacNoEditorTargetPlatform.exp
+  UnrealFrontend-ShaderFormatD3D.lib (0:00.09 at +10:16)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatD3D.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-ShaderFormatD3D.exp
+  UnrealFrontend-HTML5TargetPlatform.lib (0:00.11 at +10:17)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\HTML5\UnrealFrontend-HTML5TargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\HTML5\UnrealFrontend-HTML5TargetPlatform.exp
+  UnrealFrontend-TVOSTargetPlatform.lib (0:00.17 at +10:17)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-TVOSTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\IOS\UnrealFrontend-TVOSTargetPlatform.exp
+  UnrealFrontend-MetalShaderFormat.lib (0:00.12 at +10:17)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MetalShaderFormat.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MetalShaderFormat.exp
+  UnrealFrontend-MacClientTargetPlatform.lib (0:00.09 at +10:17)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacClientTargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-MacClientTargetPlatform.exp
+  UnrealFrontend-VulkanShaderFormat.lib (0:00.09 at +10:17)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VulkanShaderFormat.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend-VulkanShaderFormat.exp
+  UnrealFrontend.lib (0:00.12 at +10:17)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\UnrealFrontend.exp
+  ---------------------- Done ----------------------
+   
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+   
+  1 build system warning(s):
+     - License is invalid
+   
+  
+  
+  Deploying UnrealFrontend Win64 Development...
+  Total build time: 652.46 seconds (XGE executor: 618.35 seconds)

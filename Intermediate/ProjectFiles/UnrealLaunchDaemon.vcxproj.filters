@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.Target.cs" />
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.Build.cs" />
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.tps" />
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.uproject" />
+		<Filter Include="Build">
+			<UniqueIdentifier>{026999F9-4244-46AA-84AA-CEE0D2BF53AF}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Build\IOS">
+			<UniqueIdentifier>{A9453F4A-3021-4D79-A7B8-35487567DC53}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Build\IOS\UnrealLaunchDaemon-Info.plist">
+			<Filter>Build\IOS</Filter>
+		</None >
+		<Filter Include="Private">
+			<UniqueIdentifier>{00DBA3BD-723D-4ADD-9899-F2F22820AB86}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\LaunchDaemonMessageHandler.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\LaunchDaemonMessageHandler.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\UnrealLaunchDaemon.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\UnrealLaunchDaemonApp.cpp">
+			<Filter>Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\UnrealLaunchDaemonApp.h">
+			<Filter>Private</Filter>
+		</ClInclude >
+		<Filter Include="Private\IOS">
+			<UniqueIdentifier>{E1790465-725F-436C-82EB-0636A246E409}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\IOS\IOSLaunchDaemonAppMain.cpp">
+			<Filter>Private\IOS</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\IOS\IOSLaunchDaemonView.cpp">
+			<Filter>Private\IOS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\..\..\..\..\..\..\..\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\IOS\IOSLaunchDaemonView.h">
+			<Filter>Private\IOS</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

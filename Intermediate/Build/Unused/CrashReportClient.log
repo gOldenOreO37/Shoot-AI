@@ -1,0 +1,94 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\CrashReportClient.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\MinidumpDiagnostics.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\SlateViewer.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\RPMSF.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UE4.vcxproj]
+  Creating makefile for CrashReportClient (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Building UnrealHeaderTool...
+  Target is up to date
+  Total build time: 0.18 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Parsing headers for CrashReportClient
+    Running UnrealHeaderTool CrashReportClient "C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\CrashReportClient\Development\CrashReportClient.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -NoEnginePlugins
+  Reflection code generated for CrashReportClient in 2.0942988 seconds
+  Distributing 61 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  SharedPCH.CoreUObject.cpp (0:02.68 at +0:00)
+  SharedPCH.Core.cpp (0:02.57 at +0:02)
+  PCH.Core.cpp (0:04.21 at +0:05)
+  PCH.CoreUObject.cpp (0:04.34 at +0:09)
+  SharedPCH.Slate.cpp (0:09.40 at +0:13)
+  SharedPCH.Slate.NonOptimized.cpp (0:10.12 at +0:23)
+  PCH.ImageWrapper.cpp (0:00.43 at +0:33)
+  Module.MessageLog.cpp (0:05.76 at +0:33)
+  Module.Slate.1_of_5.cpp (0:09.32 at +0:39)
+  Module.SlateReflector.cpp (0:11.82 at +0:49)
+  Module.Slate.2_of_5.cpp (0:13.71 at +1:00)
+  Module.Slate.3_of_5.cpp (0:14.06 at +1:14)
+  Module.Slate.4_of_5.cpp (0:10.09 at +1:28)
+  Module.Slate.5_of_5.cpp (0:06.92 at +1:38)
+  Module.Slate.gen.cpp (0:02.34 at +1:45)
+  Module.DesktopPlatform.cpp (0:06.32 at +1:48)
+  Module.SourceControl.cpp (0:02.56 at +1:54)
+  Module.Messaging.cpp (0:02.71 at +1:57)
+  Module.AssetRegistry.cpp (0:07.01 at +2:00)
+  Module.SourceControl.gen.cpp (0:00.34 at +2:07)
+  Module.SandboxFile.cpp (0:00.45 at +2:07)
+  Module.AssetRegistry.gen.cpp (0:01.60 at +2:07)
+  Module.ImageWrapper.cpp (0:01.87 at +2:09)
+  Module.SSL.cpp (0:00.59 at +2:11)
+  Module.HTTP.cpp (0:01.90 at +2:12)
+  Module.XmlParser.cpp (0:00.75 at +2:14)
+  Module.Analytics.cpp (0:00.26 at +2:14)
+  Module.AnalyticsET.cpp (0:01.28 at +2:15)
+  Module.LauncherPlatform.cpp (0:00.54 at +2:16)
+  Module.StandaloneRenderer.cpp (0:04.04 at +2:17)
+  Module.CrashDebugHelper.cpp (0:03.06 at +2:21)
+  Module.Sockets.cpp (0:01.09 at +2:24)
+  Module.InputCore.gen.cpp (0:00.78 at +2:25)
+  Module.SlateCore.cpp (0:17.15 at +2:26)
+  Module.CrashReportClient.cpp (0:05.64 at +2:43)
+  Module.EditorStyle.cpp (0:03.75 at +2:49)
+  Module.EditorStyle.gen.cpp (0:00.35 at +2:52)
+  Module.Core.1_of_9.cpp (0:08.65 at +2:53)
+  Module.Core.2_of_9.cpp (0:03.85 at +3:02)
+  Module.Core.3_of_9.cpp (0:08.37 at +3:05)
+  Module.Core.4_of_9.cpp (0:02.96 at +3:14)
+  Module.Core.5_of_9.cpp (0:06.60 at +3:17)
+  Module.Core.6_of_9.cpp (0:04.93 at +3:23)
+  Module.Core.7_of_9.cpp (0:05.90 at +3:28)
+  Module.Core.8_of_9.cpp (0:11.96 at +3:34)
+  Module.SlateCore.gen.cpp (0:01.90 at +3:46)
+  Module.Core.9_of_9.cpp (0:01.82 at +3:48)
+  Module.Projects.cpp (0:03.70 at +3:50)
+  Module.ApplicationCore.cpp (0:03.28 at +3:54)
+  Module.CoreUObject.1_of_6.cpp (0:08.89 at +3:57)
+  Module.CoreUObject.2_of_6.cpp (0:15.42 at +4:06)
+  Module.CoreUObject.3_of_6.cpp (0:10.56 at +4:22)
+  Module.CoreUObject.4_of_6.cpp (0:07.09 at +4:32)
+  Module.CoreUObject.5_of_6.cpp (0:13.89 at +4:39)
+  Module.CoreUObject.6_of_6.cpp (0:05.53 at +4:53)
+  Module.CoreUObject.gen.cpp (0:00.35 at +4:59)
+  Module.InputCore.cpp (0:02.46 at +4:59)
+  Module.SlateReflector.gen.cpp (0:00.32 at +5:02)
+  Module.Json.cpp (0:06.79 at +5:02)
+  CrashReportClient.rc (0:00.12 at +5:09)
+  CrashReportClient-Win64-Development.exe (0:03.87 at +5:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Binaries\Win64\CrashReportClient-Win64-Development.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Binaries\Win64\CrashReportClient-Win64-Development.exp
+  ---------------------- Done ----------------------
+   
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+   
+  1 build system warning(s):
+     - License is invalid
+   
+  
+  
+  Deploying CrashReportClient Win64 Development...
+  Total build time: 321.78 seconds (XGE executor: 313.61 seconds)

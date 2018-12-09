@@ -1,0 +1,5 @@
+C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Source\RPMSF\RPMSF.Build.cs
+C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Plugins\Victory Plugin\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs
+C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Source\RPMSF.Target.cs
+C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Source\RPMSFEditor.Target.cs
+C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Source\RPMSFServer.Target.cs

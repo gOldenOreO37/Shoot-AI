@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RPMSF.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\Build\Win64\UE4Editor\Development\RPMSF\RPMSF.cpp.obj"
+"C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\Build\Win64\UE4Editor\Development\RPMSF\RPMSFGameModeBase.cpp.obj"
+"C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\Build\Win64\UE4Editor\Development\RPMSF\RPMSF.init.gen.cpp.obj"
+"C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\Build\Win64\UE4Editor\Development\RPMSF\RPMSFGameModeBase.gen.cpp.obj"
+"C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RPMSF.lib"

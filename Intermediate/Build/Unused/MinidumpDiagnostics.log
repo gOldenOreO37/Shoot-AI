@@ -1,0 +1,79 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\MinidumpDiagnostics.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\SlateViewer.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\RPMSF.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UE4.vcxproj]
+  Creating makefile for MinidumpDiagnostics (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Building UnrealHeaderTool...
+  Target is up to date
+  Total build time: 0.19 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Parsing headers for MinidumpDiagnostics
+    Running UnrealHeaderTool MinidumpDiagnostics "C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\MinidumpDiagnostics\Development\MinidumpDiagnostics.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -NoEnginePlugins
+  Reflection code generated for MinidumpDiagnostics in 2.2351051 seconds
+  Distributing 47 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  SharedPCH.CoreUObject.cpp (0:02.20 at +0:00)
+  PCH.Core.cpp (0:02.07 at +0:02)
+  PCH.CoreUObject.cpp (0:05.56 at +0:04)
+  SharedPCH.Core.cpp (0:01.89 at +0:09)
+  SharedPCH.Slate.cpp (0:10.03 at +0:11)
+  SharedPCH.Slate.NonOptimized.cpp (0:10.10 at +0:21)
+  PCH.ImageWrapper.cpp (0:00.42 at +0:31)
+  Module.SourceControl.cpp (0:02.54 at +0:32)
+  Module.InputCore.gen.cpp (0:00.62 at +0:35)
+  Module.SlateCore.cpp (0:14.57 at +0:35)
+  Module.SlateCore.gen.cpp (0:01.85 at +0:50)
+  Module.ImageWrapper.cpp (0:01.54 at +0:52)
+  Module.CrashDebugHelper.cpp (0:02.45 at +0:53)
+  Module.Slate.1_of_5.cpp (0:09.51 at +0:56)
+  Module.Slate.3_of_5.cpp (0:12.46 at +1:05)
+  Module.SourceControl.gen.cpp (0:00.39 at +1:18)
+  Module.Slate.4_of_5.cpp (0:09.56 at +1:18)
+  Module.InputCore.cpp (0:02.53 at +1:28)
+  Module.Slate.gen.cpp (0:01.50 at +1:30)
+  Module.DesktopPlatform.cpp (0:04.79 at +1:32)
+  Module.EditorStyle.cpp (0:03.57 at +1:37)
+  Module.EditorStyle.gen.cpp (0:00.28 at +1:40)
+  Module.Slate.2_of_5.cpp (0:13.37 at +1:41)
+  Module.Slate.5_of_5.cpp (0:04.54 at +1:54)
+  Module.CoreUObject.gen.cpp (0:00.39 at +1:59)
+  Module.CoreUObject.6_of_6.cpp (0:05.28 at +1:59)
+  Module.MinidumpDiagnostics.cpp (0:01.68 at +2:04)
+  Module.Core.1_of_9.cpp (0:06.84 at +2:06)
+  Module.Core.2_of_9.cpp (0:02.37 at +2:13)
+  Module.Core.3_of_9.cpp (0:07.46 at +2:15)
+  Module.Core.4_of_9.cpp (0:02.50 at +2:23)
+  Module.Core.5_of_9.cpp (0:05.43 at +2:25)
+  Module.Core.6_of_9.cpp (0:04.42 at +2:31)
+  Module.Core.7_of_9.cpp (0:05.03 at +2:35)
+  Module.PerforceSourceControl.cpp (0:05.07 at +2:40)
+  Module.Core.8_of_9.cpp (0:06.96 at +2:46)
+  Module.ApplicationCore.cpp (0:02.92 at +2:53)
+  Module.Json.cpp (0:06.86 at +2:55)
+  Module.Projects.cpp (0:02.73 at +3:02)
+  Module.CoreUObject.1_of_6.cpp (0:06.98 at +3:05)
+  Module.CoreUObject.2_of_6.cpp (0:10.96 at +3:12)
+  Module.CoreUObject.3_of_6.cpp (0:09.18 at +3:23)
+  Module.CoreUObject.4_of_6.cpp (0:06.39 at +3:32)
+  Module.CoreUObject.5_of_6.cpp (0:13.98 at +3:39)
+  Module.Core.9_of_9.cpp (0:01.71 at +3:53)
+  PCLaunch.rc (0:00.21 at +3:54)
+  MinidumpDiagnostics.exe (0:03.17 at +3:55)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Binaries\Win64\MinidumpDiagnostics.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Binaries\Win64\MinidumpDiagnostics.exp
+  ---------------------- Done ----------------------
+   
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+   
+  1 build system warning(s):
+     - License is invalid
+   
+  
+  
+  Deploying MinidumpDiagnostics Win64 Development...
+  Total build time: 245.76 seconds (XGE executor: 238.60 seconds)

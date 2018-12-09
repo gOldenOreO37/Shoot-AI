@@ -1,0 +1,208 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealLightmass.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealPak.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealVersionSelector.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealFileServer.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\UnrealWatchdog.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BootstrapPackagedGame.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BlankProgram.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\BuildPatchTool.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\CrashReportClient.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\MinidumpDiagnostics.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\fuzzyblackpanda\Documents\Unreal Projects\Thrill Ride Spill\AI Projects\Shooting AI\Intermediate\ProjectFiles\SlateViewer.vcxproj]
+  Creating makefile for UnrealFileServer (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Building UnrealHeaderTool...
+  Target is up to date
+  Total build time: 0.18 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Parsing headers for UnrealFileServer
+    Running UnrealHeaderTool UnrealFileServer "C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -NoEnginePlugins
+  Reflection code generated for UnrealFileServer in 2.0225377 seconds
+  Distributing 111 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  SharedPCH.Core.cpp (0:02.32 at +0:00)
+  PCH.Core.cpp (0:03.48 at +0:02)
+  PCH.CoreUObject.cpp (0:05.68 at +0:05)
+  PCH.ImageWrapper.cpp (0:00.50 at +0:11)
+  SharedPCH.CoreUObject.cpp (0:02.68 at +0:12)
+  ModuleVersionResource.rc.inl (0:00.07 at +0:14)
+  PCLaunch.rc (0:00.12 at +0:14)
+  Module.Core.1_of_9.cpp (0:07.18 at +0:15)
+  Module.Core.2_of_9.cpp (0:03.78 at +0:22)
+  Module.Core.3_of_9.cpp (0:07.95 at +0:26)
+  Module.Core.4_of_9.cpp (0:02.78 at +0:34)
+  Module.Core.5_of_9.cpp (0:05.73 at +0:36)
+  Module.Core.6_of_9.cpp (0:05.04 at +0:42)
+  Module.Core.7_of_9.cpp (0:05.46 at +0:47)
+  Module.Core.8_of_9.cpp (0:07.26 at +0:53)
+  Module.Core.9_of_9.cpp (0:01.85 at +1:00)
+  UnrealFileServer-Core.lib (0:00.54 at +1:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Core.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Core.exp
+  Module.ShaderCore.cpp (0:08.64 at +1:02)
+  Module.ImageCore.cpp (0:00.26 at +1:11)
+  Module.ApplicationCore.cpp (0:02.26 at +1:12)
+  Module.ImageWrapper.cpp (0:01.51 at +1:14)
+  UnrealFileServer-ShaderCore.lib (0:00.11 at +1:15)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCore.exp
+  Module.ShaderCompilerCommon.cpp (0:02.71 at +1:16)
+  Module.ShaderPreprocessor.cpp (0:00.82 at +1:18)
+  UnrealFileServer-ApplicationCore.lib (0:00.43 at +1:19)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ApplicationCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ApplicationCore.exp
+  UnrealFileServer-ImageCore.lib (0:00.07 at +1:20)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageCore.exp
+  UnrealFileServer-ImageWrapper.lib (0:00.10 at +1:20)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageWrapper.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageWrapper.exp
+  Module.Projects.cpp (0:02.29 at +1:20)
+  Module.SandboxFile.cpp (0:00.35 at +1:22)
+  Module.Json.cpp (0:05.45 at +1:23)
+  UnrealFileServer-ShaderCompilerCommon.lib (0:00.09 at +1:28)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCompilerCommon.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCompilerCommon.exp
+  UnrealFileServer-ShaderPreprocessor.lib (0:00.09 at +1:28)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderPreprocessor.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderPreprocessor.exp
+  Module.RHI.cpp (0:02.70 at +1:28)
+  Module.Sockets.cpp (0:01.00 at +1:31)
+  UnrealFileServer-Json.lib (0:00.14 at +1:32)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Json.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Json.exp
+  UnrealFileServer-SandboxFile.lib (0:00.09 at +1:32)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-SandboxFile.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-SandboxFile.exp
+  UnrealFileServer-Projects.lib (0:00.09 at +1:32)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Projects.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Projects.exp
+  Module.RenderCore.cpp (0:01.56 at +1:33)
+  Module.TextureFormatIntelISPCTexComp.cpp (0:00.35 at +1:34)
+  Module.LauncherPlatform.cpp (0:00.35 at +1:35)
+  Module.DesktopPlatform.cpp (0:03.70 at +1:35)
+  Module.TargetPlatform.cpp (0:00.76 at +1:39)
+  Module.CoreUObject.2_of_6.cpp (0:10.43 at +1:40)
+  Module.CoreUObject.gen.cpp (0:00.37 at +1:50)
+  Module.CoreUObject.6_of_6.cpp (0:05.06 at +1:51)
+  Module.NetworkFileSystem.cpp (0:01.68 at +1:56)
+  Module.CoreUObject.5_of_6.cpp (0:13.37 at +1:58)
+  Module.CoreUObject.4_of_6.cpp (0:05.40 at +2:11)
+  Module.DirectoryWatcher.cpp (0:01.67 at +2:17)
+  Module.CoreUObject.3_of_6.cpp (0:08.32 at +2:18)
+  Module.CoreUObject.1_of_6.cpp (0:06.93 at +2:27)
+  UnrealFileServer-RHI.lib (0:00.12 at +2:34)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RHI.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RHI.exp
+  UnrealFileServer-Sockets.lib (0:00.09 at +2:34)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Sockets.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Sockets.exp
+  Module.VulkanShaderFormat.cpp (0:04.23 at +2:34)
+  Module.ShaderFormatD3D.cpp (0:01.73 at +2:38)
+  Module.TextureFormatAndroid.cpp (0:00.28 at +2:40)
+  Module.ShaderFormatOpenGL.cpp (0:03.18 at +2:40)
+  Module.TextureFormatDXT.cpp (0:00.28 at +2:43)
+  Module.DerivedDataCache.cpp (0:01.31 at +2:44)
+  Module.MetalShaderFormat.cpp (0:06.79 at +2:45)
+  Module.TextureFormatASTC.cpp (0:00.28 at +2:52)
+  Module.TextureFormatPVR.cpp (0:00.25 at +2:52)
+  Module.UnrealFileServer.cpp (0:02.01 at +2:53)
+  UnrealFileServer-CoreUObject.lib (0:00.26 at +2:55)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-CoreUObject.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-CoreUObject.exp
+  UnrealFileServer-DesktopPlatform.lib (0:00.09 at +2:55)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DesktopPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DesktopPlatform.exp
+  UnrealFileServer-NetworkFileSystem.lib (0:00.11 at +2:55)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-NetworkFileSystem.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-NetworkFileSystem.exp
+  UnrealFileServer-RenderCore.lib (0:00.09 at +2:55)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RenderCore.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RenderCore.exp
+  UnrealFileServer-LauncherPlatform.lib (0:00.21 at +2:55)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-LauncherPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-LauncherPlatform.exp
+  UnrealFileServer-TargetPlatform.lib (0:00.09 at +2:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TargetPlatform.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TargetPlatform.exp
+  UnrealFileServer-DirectoryWatcher.lib (0:00.10 at +2:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DirectoryWatcher.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DirectoryWatcher.exp
+  UnrealFileServer-TextureFormatIntelISPCTexComp.lib (0:00.09 at +2:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatIntelISPCTexComp.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatIntelISPCTexComp.exp
+  UnrealFileServer-Core.dll (0:01.01 at +2:56)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Core.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Core.suppressed.exp
+  UnrealFileServer-ShaderFormatD3D.dll (0:00.42 at +2:57)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatD3D.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatD3D.suppressed.exp
+  UnrealFileServer-NetworkFileSystem.dll (0:00.46 at +2:57)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-NetworkFileSystem.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-NetworkFileSystem.suppressed.exp
+  UnrealFileServer-CoreUObject.dll (0:00.71 at +2:58)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-CoreUObject.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-CoreUObject.suppressed.exp
+  UnrealFileServer-VulkanShaderFormat.dll (0:01.87 at +2:59)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-VulkanShaderFormat.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-VulkanShaderFormat.suppressed.exp
+  UnrealFileServer-ImageWrapper.dll (0:00.32 at +3:01)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageWrapper.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageWrapper.suppressed.exp
+  UnrealFileServer-ShaderFormatOpenGL.dll (0:00.37 at +3:01)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatOpenGL.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatOpenGL.suppressed.exp
+  UnrealFileServer.exe (0:00.20 at +3:01)
+  UnrealFileServer-MetalShaderFormat.dll (0:00.31 at +3:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-MetalShaderFormat.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-MetalShaderFormat.suppressed.exp
+  UnrealFileServer-TextureFormatAndroid.dll (0:00.23 at +3:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatAndroid.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatAndroid.suppressed.exp
+  UnrealFileServer-TextureFormatDXT.dll (0:00.31 at +3:02)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatDXT.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatDXT.suppressed.exp
+  UnrealFileServer-TextureFormatASTC.dll (0:00.18 at +3:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatASTC.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatASTC.suppressed.exp
+  UnrealFileServer-TextureFormatIntelISPCTexComp.dll (0:00.18 at +3:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatIntelISPCTexComp.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatIntelISPCTexComp.suppressed.exp
+  UnrealFileServer-ShaderCore.dll (0:00.29 at +3:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCore.suppressed.exp
+  UnrealFileServer-RenderCore.dll (0:00.21 at +3:03)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RenderCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RenderCore.suppressed.exp
+  UnrealFileServer-TargetPlatform.dll (0:00.31 at +3:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TargetPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TargetPlatform.suppressed.exp
+  UnrealFileServer-TextureFormatPVR.dll (0:00.20 at +3:04)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatPVR.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatPVR.suppressed.exp
+  UnrealFileServer-DesktopPlatform.dll (0:00.23 at +3:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DesktopPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DesktopPlatform.suppressed.exp
+  UnrealFileServer-ShaderPreprocessor.dll (0:00.21 at +3:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderPreprocessor.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderPreprocessor.suppressed.exp
+  UnrealFileServer-RHI.dll (0:00.32 at +3:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RHI.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-RHI.suppressed.exp
+  UnrealFileServer-Projects.dll (0:00.20 at +3:05)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Projects.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Projects.suppressed.exp
+  UnrealFileServer-Sockets.dll (0:00.20 at +3:06)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Sockets.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Sockets.suppressed.exp
+  UnrealFileServer-ApplicationCore.dll (0:00.29 at +3:06)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ApplicationCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ApplicationCore.suppressed.exp
+  UnrealFileServer-ShaderCompilerCommon.dll (0:00.20 at +3:06)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCompilerCommon.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderCompilerCommon.suppressed.exp
+  UnrealFileServer-SandboxFile.dll (0:00.18 at +3:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-SandboxFile.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-SandboxFile.suppressed.exp
+  UnrealFileServer-Json.dll (0:00.21 at +3:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Json.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-Json.suppressed.exp
+  UnrealFileServer-DirectoryWatcher.dll (0:00.20 at +3:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DirectoryWatcher.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DirectoryWatcher.suppressed.exp
+  UnrealFileServer-LauncherPlatform.dll (0:00.18 at +3:07)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-LauncherPlatform.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-LauncherPlatform.suppressed.exp
+  UnrealFileServer-DerivedDataCache.dll (0:00.21 at +3:08)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DerivedDataCache.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DerivedDataCache.suppressed.exp
+  UnrealFileServer-ImageCore.dll (0:00.18 at +3:08)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageCore.suppressed.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ImageCore.suppressed.exp
+  UnrealFileServer-TextureFormatAndroid.lib (0:00.09 at +3:08)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatAndroid.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatAndroid.exp
+  UnrealFileServer-DerivedDataCache.lib (0:00.07 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DerivedDataCache.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-DerivedDataCache.exp
+  UnrealFileServer-TextureFormatDXT.lib (0:00.07 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatDXT.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatDXT.exp
+  UnrealFileServer-TextureFormatASTC.lib (0:00.09 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatASTC.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatASTC.exp
+  UnrealFileServer-TextureFormatPVR.lib (0:00.09 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatPVR.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-TextureFormatPVR.exp
+  UnrealFileServer-ShaderFormatD3D.lib (0:00.07 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatD3D.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatD3D.exp
+  UnrealFileServer-ShaderFormatOpenGL.lib (0:00.09 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatOpenGL.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-ShaderFormatOpenGL.exp
+  UnrealFileServer-MetalShaderFormat.lib (0:00.09 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-MetalShaderFormat.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-MetalShaderFormat.exp
+  UnrealFileServer-VulkanShaderFormat.lib (0:00.07 at +3:09)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-VulkanShaderFormat.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer-VulkanShaderFormat.exp
+  UnrealFileServer.lib (0:00.09 at +3:10)
+     Creating library C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer.lib and object C:\UnrealEngine-4.19.2-release\UnrealEngine-4.19.2-release\Engine\Intermediate\Build\Win64\UnrealFileServer\Development\UnrealFileServer.exp
+  ---------------------- Done ----------------------
+   
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+   
+  1 build system warning(s):
+     - License is invalid
+   
+  
+  
+  Deploying UnrealFileServer Win64 Development...
+  Total build time: 197.34 seconds (XGE executor: 190.32 seconds)
